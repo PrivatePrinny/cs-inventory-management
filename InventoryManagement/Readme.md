@@ -1,0 +1,2 @@
+﻿I created this simple inventory management web application when conducting a RAD (Rapid Application Development) 
+test to time how quickly such a basic application could be built using different technologies and Frameworks.
